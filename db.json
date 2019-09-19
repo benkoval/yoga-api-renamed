@@ -269,24 +269,6 @@
             "sanskrit_name": "Virabhadrasana Two",
             "english_name": "Warrior Two",
             "img_url": "https://www.dropbox.com/s/rsb3mx41dfq4otl/warrior2.svg?raw=1"
-        },
-        {
-            "id": 46,
-            "sanskrit_name": "Virabhadrasana Three",
-            "english_name": "Warrior Three",
-            "img_url": "https://www.dropbox.com/s/lwgoky3z37ameif/warrior3.svg?raw=1"
-        },
-        {
-            "id": 47,
-            "sanskrit_name": "Urdhva Dhanurasana",
-            "english_name": "Wheel",
-            "img_url": "https://www.dropbox.com/s/kpa1bewuut3lm5q/wheel.svg?raw=1"
-        },
-        {
-            "id": 48,
-            "sanskrit_name": "Camatkarasana",
-            "english_name": "Wild Thing",
-            "img_url": "https://www.dropbox.com/s/d1dbdvo4l7xry4w/downdogflip.svg?raw=1"
         }
     ]
 }
